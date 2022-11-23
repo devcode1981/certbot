@@ -102,7 +102,7 @@ platformdirs==2.5.2; python_version >= "3.7"
 pluggy==1.0.0; python_version >= "3.7"
 ply==3.11; python_version >= "3.7"
 poetry-core==1.1.0a7
-poetry==1.2.0a2
+poetry==1.2.0b1
 prompt-toolkit==3.0.31; python_version >= "3.7"
 protobuf==4.21.6; python_version >= "3.7"
 ptyprocess==0.7.0; python_version >= "3.7" and python_version < "4.0"
